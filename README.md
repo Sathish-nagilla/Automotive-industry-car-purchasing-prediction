@@ -8,3 +8,4 @@ The results can be used by car manufacturers for market analysis, customer segme
 
 ## Installation requirements
 pip install -r requirements.txt 
+python3 -m pip install --upgrade pip
