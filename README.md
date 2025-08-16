@@ -5,3 +5,6 @@ Irrelevant features like name, email, and country are removed during preprocessi
 The target variable (y) is the car purchase amount, while the remaining features are treated as inputs (X).
 A machine learning model is trained to learn the relationship between customer attributes and purchase behavior.
 The results can be used by car manufacturers for market analysis, customer segmentation, and strategic product design.
+
+## Installation requirements
+pip install -r requirements.txt 
